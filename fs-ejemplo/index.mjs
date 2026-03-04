@@ -2,6 +2,7 @@ import fs from 'fs';
 /* fs=File System, nos permite modificar, leer, gestionar, etc. archivos 
      para ejecutarla debemos escribir en la terminal (node "nombre del archivo y extension")
      ej: node index.mjs 
+     Cambio de prueba commit
 */
 
 // Leer un archivo de manera asíncrona 
