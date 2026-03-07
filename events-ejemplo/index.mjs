@@ -7,6 +7,6 @@ const emisor = new EventEmitter();
 emisor.on('saludo', (nombre) => {
     console.log(`¡Hola, ${nombre}!`);
 });
-
+ //Aqui voy a añadir otro comentario de prueba pero con Readme en github
 // Emitir el evento 'saludo' 
 emisor.emit('saludo', 'Mundo');
